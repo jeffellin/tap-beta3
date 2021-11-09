@@ -15,4 +15,4 @@ spec:
     - ./systems/yelb-system.yaml
     - ./resources/yelb-db-resource.yaml
     - ./domains/cloudapps-domain.yaml
-    - https://raw.githubusercontent.com/jeffellin/tanzu-java-web-app/main/catalog-info.yaml
+    - https://github.com/jeffellin/tanzu-java-web-app/blob/main/catalog-info.yaml
